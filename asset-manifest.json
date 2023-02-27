@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/routedemo/static/css/main.c2cab247.css",
-    "main.js": "/routedemo/static/js/main.2d997c34.js",
+    "main.js": "/routedemo/static/js/main.aa6e66a1.js",
     "index.html": "/routedemo/index.html",
     "main.c2cab247.css.map": "/routedemo/static/css/main.c2cab247.css.map",
-    "main.2d997c34.js.map": "/routedemo/static/js/main.2d997c34.js.map"
+    "main.aa6e66a1.js.map": "/routedemo/static/js/main.aa6e66a1.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.2d997c34.js"
+    "static/js/main.aa6e66a1.js"
   ]
 }
